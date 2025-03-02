@@ -19,7 +19,7 @@ This is the **Flask-based backend** for the Zeotap Chatbot, responsible for hand
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/RAWMIC17/zeotap_chatbot_Backend.git
-cd zeotap-chatbot-backend
+cd zeotap_chatbot_backend
 ```
 2️⃣ Create a Virtual Environment
 ```bash
