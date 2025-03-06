@@ -34,7 +34,7 @@ pip install -r flask selenium beautifulsoup4
 ```sh
 python app.py
 ```
-The API will be available at:
+* The API will be available at: *
 ```sh
 http://127.0.0.1:5000/scrape
 ```
