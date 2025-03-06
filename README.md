@@ -13,7 +13,7 @@ This is the **Flask-based backend** for the Zeotap Chatbot, responsible for hand
 - **Python** (Backend Logic)
 - **Flask** (Web Framework)
 - **BeautifulSoup / Requests** (Scraping)
-- **OpenAI / NLP Models** (For response generation)
+- **Selenium** (web requests)
 
 ## 🏗️ Setup & Installation
 ### 1️⃣ Clone the Repository
