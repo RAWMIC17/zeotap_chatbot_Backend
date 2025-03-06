@@ -28,7 +28,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 3️⃣ Install Dependencies
 ```sh
-pip install -r requirements.txt
+pip install -r flask selenium beautifulsoup4
 ```
 4️⃣ Run the Server
 ```sh
